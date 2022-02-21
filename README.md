@@ -1,2 +1,3 @@
 # FISU Planetside Lookup Script
- yeah i hate passive players
+
+The executable is in the dist folder
